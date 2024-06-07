@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Abdul+Muhith+Fahim,+an+IT+developer+student+passionate+about+coding+and+learning" alt="Typing SVG" />
 </h3>
 
-# ABOUT ME 👋
+# About Me 👋
 
 I'm a passionate coder and learner, always excited to explore new technologies and improve my skills. Currently, I'm an IT developer student majoring in Computer Information System at WCCCD,USA. My journey in the tech world started with a curiosity for how things work behind the scenes, and this curiosity has driven me to constantly learn and evolve.
 
