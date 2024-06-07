@@ -1,7 +1,7 @@
 
 
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Abdul+Muhith+Fahim,+an+IT+ Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Abdul+Muhith+Fahim,+an+IT+Dev" alt="Typing SVG" />
    
 </p>
 
