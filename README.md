@@ -15,9 +15,7 @@ In addition to my technical skills, I am a proactive team player and effective c
 - **Programming Languages**: HTML, PHP, JavaScript, Python, Java
 - **Frameworks and Libraries**: React, Node.js, Django, Spring Boot
 - **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap
-- **Database Management**: MySQL, MongoDB, PostgreSQL
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Database Management**: MySQL, MongoDB, 
 - **Version Control**: Git, GitHub
 - **Other Tools**: Visual Studio Code, IntelliJ IDEA, Postman, Figma
 <p align="left">
