@@ -56,16 +56,3 @@ In addition to my technical skills, I am a proactive team player and effective c
 ## Get in Touch
 - [LinkedIn]~https://www.linkedin.com/in/abdul-muhith-fahim-64b415243/)
 - [Email] (Fahimmuhith@gmail.com)
-<p align="center">
-  <img src="https://github.com/Muhithfahim/Muhithfahim/blob/main/hacker.gif" alt="Hacker Mode" width="600"/>
-</p>
-
-<style>
-.blink {
-  animation: blinker 1.5s linear infinite;
-}
-
-@keyframes blinker {
-  50% { opacity: 0; }
-}
-</style>
