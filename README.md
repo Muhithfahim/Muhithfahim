@@ -17,6 +17,9 @@ In addition to my technical skills, I am a proactive team player and effective c
 - **Database Management**: MySQL, MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
 - **Other Tools**: Visual Studio Code, IntelliJ IDEA, Postman, Figma
+-  [GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhithfahim&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhithfahim&layout=compact)
+
 
 ## Get in Touch
 - [LinkedIn]~https://www.linkedin.com/in/abdul-muhith-fahim-64b415243/)
