@@ -1,7 +1,7 @@
 # Hi there, I'm Abdul Muhith Fahim 👋
 
 ## About Me
-I'm a passionate coder and learner, always excited to explore new technologies and improve my skills. Currently, I'm an IT developer student majoring in Computer Infromation System at WCCCD,USA. My journey in the tech world started with a curiosity for how things work behind the scenes, and this curiosity has driven me to constantly learn and evolve.
+I'm a passionate coder and learner, always excited to explore new technologies and improve my skills. Currently, I'm an IT developer student majoring in Computer Information System at WCCCD,USA. My journey in the tech world started with a curiosity for how things work behind the scenes, and this curiosity has driven me to constantly learn and evolve.
 
 I have a strong foundation in web development and DevOps, and I enjoy building robust, scalable applications. My projects reflect my commitment to quality and attention to detail, and I thrive on solving complex problems and contributing to open-source communities.
 
