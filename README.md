@@ -12,6 +12,14 @@ In addition to my technical skills, I am a proactive team player and effective c
 - **Pull Shark**: Awarded for my active participation in pull requests and collaboration with other developers.
 ## Skills
 ### Languages and Tools:
+- **Programming Languages**: HTML, PHP, JavaScript, Python, Java
+- **Frameworks and Libraries**: React, Node.js, Django, Spring Boot
+- **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap
+- **Database Management**: MySQL, MongoDB, PostgreSQL
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Version Control**: Git, GitHub
+- **Other Tools**: Visual Studio Code, IntelliJ IDEA, Postman, Figma
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -33,14 +41,7 @@ In addition to my technical skills, I am a proactive team player and effective c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40"/>
 </p>
-- **Programming Languages**: HTML, PHP, JavaScript, Python, Java
-- **Frameworks and Libraries**: React, Node.js, Django, Spring Boot
-- **Web Development**: HTML, CSS, JavaScript, PHP, Bootstrap
-- **Database Management**: MySQL, MongoDB, PostgreSQL
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Version Control**: Git, GitHub
-- **Other Tools**: Visual Studio Code, IntelliJ IDEA, Postman, Figma
+
 
 
 
