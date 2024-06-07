@@ -1,6 +1,7 @@
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Abdul+Muhith+Fahim,+an+IT+developer+student+passionate+about+coding+and+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=IT+developer+student;Passionate+about+coding;Always+learning+new+things" alt="Typing SVG" />
+
 </h3>
 
 # About Me 👋
